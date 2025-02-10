@@ -1,0 +1,56 @@
+﻿IF OBJECT_ID(N'[__EFMigrationsHistory]') IS NULL
+BEGIN
+    CREATE TABLE [__EFMigrationsHistory] (
+        [MigrationId] nvarchar(150) NOT NULL,
+        [ProductVersion] nvarchar(32) NOT NULL,
+        CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+    );
+END;
+GO
+
+BEGIN TRANSACTION;
+GO
+
+CREATE TABLE [ALUNO] (
+    [ID] uniqueidentifier NOT NULL,
+    [NOME] nvarchar(50) NOT NULL,
+    [EMAIL] nvarchar(50) NOT NULL,
+    [CPF] nvarchar(11) NOT NULL,
+    CONSTRAINT [PK_ALUNO] PRIMARY KEY ([ID])
+);
+GO
+
+CREATE TABLE [TURMA] (
+    [ID] uniqueidentifier NOT NULL,
+    [NUMERO] nvarchar(max) NOT NULL,
+    [ANO_LETIVO] nvarchar(max) NOT NULL,
+    [NIVEL] int NOT NULL,
+    CONSTRAINT [PK_TURMA] PRIMARY KEY ([ID])
+);
+GO
+
+CREATE TABLE [MATRICULA] (
+    [TURMA_ID] uniqueidentifier NOT NULL,
+    [ALUNO_ID] uniqueidentifier NOT NULL,
+    CONSTRAINT [PK_MATRICULA] PRIMARY KEY ([TURMA_ID], [ALUNO_ID]),
+    CONSTRAINT [FK_MATRICULA_ALUNO_ALUNO_ID] FOREIGN KEY ([ALUNO_ID]) REFERENCES [ALUNO] ([ID]) ON DELETE NO ACTION,
+    CONSTRAINT [FK_MATRICULA_TURMA_TURMA_ID] FOREIGN KEY ([TURMA_ID]) REFERENCES [TURMA] ([ID]) ON DELETE NO ACTION
+);
+GO
+
+CREATE UNIQUE INDEX [IX_ALUNO_CPF] ON [ALUNO] ([CPF]);
+GO
+
+CREATE UNIQUE INDEX [IX_ALUNO_EMAIL] ON [ALUNO] ([EMAIL]);
+GO
+
+CREATE INDEX [IX_MATRICULA_ALUNO_ID] ON [MATRICULA] ([ALUNO_ID]);
+GO
+
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20250203215009_initial', N'8.0.11');
+GO
+
+COMMIT;
+GO
+

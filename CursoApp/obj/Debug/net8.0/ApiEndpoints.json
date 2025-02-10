@@ -1,0 +1,285 @@
+[
+  {
+    "ContainingType": "CursoApp.Controllers.AlunoController",
+    "Method": "Post",
+    "RelativePath": "api/aluno",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CursoApp.Domain.Models.Dtos.Requests.CriarAlunoRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CursoApp.Domain.Models.Dtos.Responses.CriarAlunoResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 201
+      }
+    ]
+  },
+  {
+    "ContainingType": "CursoApp.Controllers.AlunoController",
+    "Method": "Get",
+    "RelativePath": "api/aluno",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[CursoApp.Domain.Models.Dtos.Responses.ConsultarAlunosReponseDto, CursoApp.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CursoApp.Controllers.AlunoController",
+    "Method": "Put",
+    "RelativePath": "api/aluno/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "CursoApp.Domain.Models.Dtos.Requests.AlterarAlunoRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CursoApp.Domain.Models.Dtos.Responses.AlterarAlunoResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CursoApp.Controllers.AlunoController",
+    "Method": "Delete",
+    "RelativePath": "api/aluno/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CursoApp.Domain.Models.Dtos.Responses.ExcluirAlunoResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CursoApp.Controllers.MatriculaController",
+    "Method": "Cadastro",
+    "RelativePath": "api/matricula",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CursoApp.Domain.Models.Dtos.Responses.CriarMatriculaResponseDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CursoApp.Domain.Models.Dtos.Requests.CriarMatriculaRequestDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 201
+      }
+    ]
+  },
+  {
+    "ContainingType": "CursoApp.Controllers.MatriculaController",
+    "Method": "Get",
+    "RelativePath": "api/matricula",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "CursoApp.Domain.Models.Dtos.Responses.ConsultarMatriculaResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CursoApp.Controllers.MatriculaController",
+    "Method": "Exclusao",
+    "RelativePath": "api/matricula/{turmaId}/{alunoId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "turmaId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "alunoId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CursoApp.Domain.Models.Dtos.Responses.ExcluirMatriculaResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CursoApp.Controllers.TurmaController",
+    "Method": "Post",
+    "RelativePath": "api/turma",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CursoApp.Domain.Models.Dtos.Requests.CriarTurmaRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CursoApp.Domain.Models.Dtos.Responses.CriarTurmaResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 201
+      }
+    ]
+  },
+  {
+    "ContainingType": "CursoApp.Controllers.TurmaController",
+    "Method": "Get",
+    "RelativePath": "api/turma",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[CursoApp.Domain.Models.Dtos.Responses.ConsultarTurmasResponseDto, CursoApp.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CursoApp.Controllers.TurmaController",
+    "Method": "Put",
+    "RelativePath": "api/turma/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "CursoApp.Domain.Models.Dtos.Requests.AlterarTurmaRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CursoApp.Domain.Models.Dtos.Responses.AlterarTurmaResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CursoApp.Controllers.TurmaController",
+    "Method": "Delete",
+    "RelativePath": "api/turma/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CursoApp.Domain.Models.Dtos.Responses.ExcluirTurmaResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

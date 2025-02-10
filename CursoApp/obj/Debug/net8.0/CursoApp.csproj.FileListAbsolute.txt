@@ -1,0 +1,165 @@
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\appsettings.json
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\CursoApp.exe
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\CursoApp.deps.json
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\CursoApp.runtimeconfig.json
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\CursoApp.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\CursoApp.pdb
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\obj\Debug\net8.0\CursoApp.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\obj\Debug\net8.0\CursoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\obj\Debug\net8.0\CursoApp.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\obj\Debug\net8.0\CursoApp.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\obj\Debug\net8.0\CursoApp.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\obj\Debug\net8.0\CursoApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\obj\Debug\net8.0\CursoApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\obj\Debug\net8.0\staticwebassets\msbuild.CursoApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\obj\Debug\net8.0\staticwebassets\msbuild.build.CursoApp.props
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CursoApp.props
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CursoApp.props
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\obj\Debug\net8.0\scopedcss\bundle\CursoApp.styles.css
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\obj\Debug\net8.0\CursoApp.csproj.Up2Date
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\obj\Debug\net8.0\CursoApp.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\obj\Debug\net8.0\refint\CursoApp.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\obj\Debug\net8.0\CursoApp.pdb
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\obj\Debug\net8.0\CursoApp.genruntimeconfig.cache
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\obj\Debug\net8.0\ref\CursoApp.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\CursoApp.Domain.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\CursoApp.Infra.Data.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\CursoApp.Domain.pdb
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\bin\Debug\net8.0\CursoApp.Infra.Data.pdb
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp\obj\Debug\net8.0\CursoApp.sourcelink.json
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\appsettings.Development.json
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\appsettings.json
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\CursoApp.exe
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\CursoApp.deps.json
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\CursoApp.runtimeconfig.json
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\CursoApp.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\CursoApp.pdb
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\Azure.Core.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\Azure.Identity.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\FluentValidation.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\System.ClientModel.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\System.Memory.Data.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\CursoApp.Domain.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\CursoApp.Infra.Data.dll
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\CursoApp.Domain.pdb
+F:\Download\CursoApp-main\CursoApp\bin\Debug\net8.0\CursoApp.Infra.Data.pdb
+F:\Download\CursoApp-main\CursoApp\obj\Debug\net8.0\CursoApp.csproj.AssemblyReference.cache
+F:\Download\CursoApp-main\CursoApp\obj\Debug\net8.0\CursoApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Download\CursoApp-main\CursoApp\obj\Debug\net8.0\CursoApp.AssemblyInfoInputs.cache
+F:\Download\CursoApp-main\CursoApp\obj\Debug\net8.0\CursoApp.AssemblyInfo.cs
+F:\Download\CursoApp-main\CursoApp\obj\Debug\net8.0\CursoApp.csproj.CoreCompileInputs.cache
+F:\Download\CursoApp-main\CursoApp\obj\Debug\net8.0\CursoApp.MvcApplicationPartsAssemblyInfo.cs
+F:\Download\CursoApp-main\CursoApp\obj\Debug\net8.0\CursoApp.MvcApplicationPartsAssemblyInfo.cache
+F:\Download\CursoApp-main\CursoApp\obj\Debug\net8.0\staticwebassets.build.json
+F:\Download\CursoApp-main\CursoApp\obj\Debug\net8.0\staticwebassets.development.json
+F:\Download\CursoApp-main\CursoApp\obj\Debug\net8.0\staticwebassets\msbuild.CursoApp.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Download\CursoApp-main\CursoApp\obj\Debug\net8.0\staticwebassets\msbuild.build.CursoApp.props
+F:\Download\CursoApp-main\CursoApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CursoApp.props
+F:\Download\CursoApp-main\CursoApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CursoApp.props
+F:\Download\CursoApp-main\CursoApp\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Download\CursoApp-main\CursoApp\obj\Debug\net8.0\scopedcss\bundle\CursoApp.styles.css
+F:\Download\CursoApp-main\CursoApp\obj\Debug\net8.0\CursoApp.csproj.Up2Date
+F:\Download\CursoApp-main\CursoApp\obj\Debug\net8.0\CursoApp.dll
+F:\Download\CursoApp-main\CursoApp\obj\Debug\net8.0\refint\CursoApp.dll
+F:\Download\CursoApp-main\CursoApp\obj\Debug\net8.0\CursoApp.pdb
+F:\Download\CursoApp-main\CursoApp\obj\Debug\net8.0\CursoApp.genruntimeconfig.cache
+F:\Download\CursoApp-main\CursoApp\obj\Debug\net8.0\ref\CursoApp.dll

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Download\\CursoApp-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B304256-C262-4B12-9273-55BF597B3B8D}|CursoApp.Infra.Data\\CursoApp.Infra.Data.csproj|f:\\download\\cursoapp-main\\cursoapp.infra.data\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B304256-C262-4B12-9273-55BF597B3B8D}|CursoApp.Infra.Data\\CursoApp.Infra.Data.csproj|solutionrelative:cursoapp.infra.data\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8957F392-FC2F-443A-BEAA-ABAD5B6B457F}|CursoApp\\CursoApp.csproj|f:\\download\\cursoapp-main\\cursoapp\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8957F392-FC2F-443A-BEAA-ABAD5B6B457F}|CursoApp\\CursoApp.csproj|solutionrelative:cursoapp\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8957F392-FC2F-443A-BEAA-ABAD5B6B457F}|CursoApp\\CursoApp.csproj|f:\\download\\cursoapp-main\\cursoapp\\controllers\\turmacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8957F392-FC2F-443A-BEAA-ABAD5B6B457F}|CursoApp\\CursoApp.csproj|solutionrelative:cursoapp\\controllers\\turmacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D6C0A3-4DB7-4A2C-84BC-B6C183FD0BFA}|CursoApp.Domain\\CursoApp.Domain.csproj|f:\\download\\cursoapp-main\\cursoapp.domain\\services\\turmaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D6C0A3-4DB7-4A2C-84BC-B6C183FD0BFA}|CursoApp.Domain\\CursoApp.Domain.csproj|solutionrelative:cursoapp.domain\\services\\turmaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D6C0A3-4DB7-4A2C-84BC-B6C183FD0BFA}|CursoApp.Domain\\CursoApp.Domain.csproj|f:\\download\\cursoapp-main\\cursoapp.domain\\services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D6C0A3-4DB7-4A2C-84BC-B6C183FD0BFA}|CursoApp.Domain\\CursoApp.Domain.csproj|solutionrelative:cursoapp.domain\\services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D6C0A3-4DB7-4A2C-84BC-B6C183FD0BFA}|CursoApp.Domain\\CursoApp.Domain.csproj|f:\\download\\cursoapp-main\\cursoapp.domain\\models\\dtos\\requests\\alteraralunorequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D6C0A3-4DB7-4A2C-84BC-B6C183FD0BFA}|CursoApp.Domain\\CursoApp.Domain.csproj|solutionrelative:cursoapp.domain\\models\\dtos\\requests\\alteraralunorequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "F:\\Download\\CursoApp-main\\CursoApp.Infra.Data\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "CursoApp.Infra.Data\\Repositories\\BaseRepository.cs",
+              "ToolTip": "F:\\Download\\CursoApp-main\\CursoApp.Infra.Data\\Repositories\\BaseRepository.cs*",
+              "RelativeToolTip": "CursoApp.Infra.Data\\Repositories\\BaseRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T20:58:38.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "F:\\Download\\CursoApp-main\\CursoApp\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "CursoApp\\Controllers\\AlunoController.cs",
+              "ToolTip": "F:\\Download\\CursoApp-main\\CursoApp\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "CursoApp\\Controllers\\AlunoController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowD4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T20:38:58.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TurmaController.cs",
+              "DocumentMoniker": "F:\\Download\\CursoApp-main\\CursoApp\\Controllers\\TurmaController.cs",
+              "RelativeDocumentMoniker": "CursoApp\\Controllers\\TurmaController.cs",
+              "ToolTip": "F:\\Download\\CursoApp-main\\CursoApp\\Controllers\\TurmaController.cs",
+              "RelativeToolTip": "CursoApp\\Controllers\\TurmaController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAIwEUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T19:55:51.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TurmaService.cs",
+              "DocumentMoniker": "F:\\Download\\CursoApp-main\\CursoApp.Domain\\Services\\TurmaService.cs",
+              "RelativeDocumentMoniker": "CursoApp.Domain\\Services\\TurmaService.cs",
+              "ToolTip": "F:\\Download\\CursoApp-main\\CursoApp.Domain\\Services\\TurmaService.cs",
+              "RelativeToolTip": "CursoApp.Domain\\Services\\TurmaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T19:58:08.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AlterarAlunoRequestDto.cs",
+              "DocumentMoniker": "F:\\Download\\CursoApp-main\\CursoApp.Domain\\Models\\Dtos\\Requests\\AlterarAlunoRequestDto.cs",
+              "RelativeDocumentMoniker": "CursoApp.Domain\\Models\\Dtos\\Requests\\AlterarAlunoRequestDto.cs",
+              "ToolTip": "F:\\Download\\CursoApp-main\\CursoApp.Domain\\Models\\Dtos\\Requests\\AlterarAlunoRequestDto.cs",
+              "RelativeToolTip": "CursoApp.Domain\\Models\\Dtos\\Requests\\AlterarAlunoRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T20:34:13.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AlunoService.cs",
+              "DocumentMoniker": "F:\\Download\\CursoApp-main\\CursoApp.Domain\\Services\\AlunoService.cs",
+              "RelativeDocumentMoniker": "CursoApp.Domain\\Services\\AlunoService.cs",
+              "ToolTip": "F:\\Download\\CursoApp-main\\CursoApp.Domain\\Services\\AlunoService.cs",
+              "RelativeToolTip": "CursoApp.Domain\\Services\\AlunoService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwCsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T20:31:46.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

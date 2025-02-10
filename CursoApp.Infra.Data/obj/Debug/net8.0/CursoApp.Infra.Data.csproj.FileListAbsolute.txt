@@ -1,0 +1,35 @@
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp.Infra.Data\bin\Debug\net8.0\CursoApp.Infra.Data.deps.json
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp.Infra.Data\bin\Debug\net8.0\CursoApp.Infra.Data.runtimeconfig.json
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp.Infra.Data\bin\Debug\net8.0\CursoApp.Infra.Data.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp.Infra.Data\bin\Debug\net8.0\CursoApp.Infra.Data.pdb
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp.Infra.Data\bin\Debug\net8.0\CursoApp.Domain.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp.Infra.Data\bin\Debug\net8.0\CursoApp.Domain.pdb
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp.Infra.Data\obj\Debug\net8.0\CursoApp.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp.Infra.Data\obj\Debug\net8.0\CursoApp.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp.Infra.Data\obj\Debug\net8.0\CursoApp.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp.Infra.Data\obj\Debug\net8.0\CursoApp.Infra.Data.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp.Infra.Data\obj\Debug\net8.0\CursoApp.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp.Infra.Data\obj\Debug\net8.0\CursoApp.FFE84D43.Up2Date
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp.Infra.Data\obj\Debug\net8.0\CursoApp.Infra.Data.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp.Infra.Data\obj\Debug\net8.0\refint\CursoApp.Infra.Data.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp.Infra.Data\obj\Debug\net8.0\CursoApp.Infra.Data.pdb
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp.Infra.Data\obj\Debug\net8.0\CursoApp.Infra.Data.genruntimeconfig.cache
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp.Infra.Data\obj\Debug\net8.0\ref\CursoApp.Infra.Data.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp.Infra.Data\obj\Debug\net8.0\CursoApp.Infra.Data.sourcelink.json
+F:\Download\CursoApp-main\CursoApp.Infra.Data\bin\Debug\net8.0\CursoApp.Infra.Data.deps.json
+F:\Download\CursoApp-main\CursoApp.Infra.Data\bin\Debug\net8.0\CursoApp.Infra.Data.runtimeconfig.json
+F:\Download\CursoApp-main\CursoApp.Infra.Data\bin\Debug\net8.0\CursoApp.Infra.Data.dll
+F:\Download\CursoApp-main\CursoApp.Infra.Data\bin\Debug\net8.0\CursoApp.Infra.Data.pdb
+F:\Download\CursoApp-main\CursoApp.Infra.Data\bin\Debug\net8.0\CursoApp.Domain.dll
+F:\Download\CursoApp-main\CursoApp.Infra.Data\bin\Debug\net8.0\CursoApp.Domain.pdb
+F:\Download\CursoApp-main\CursoApp.Infra.Data\obj\Debug\net8.0\CursoApp.Infra.Data.csproj.AssemblyReference.cache
+F:\Download\CursoApp-main\CursoApp.Infra.Data\obj\Debug\net8.0\CursoApp.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\Download\CursoApp-main\CursoApp.Infra.Data\obj\Debug\net8.0\CursoApp.Infra.Data.AssemblyInfoInputs.cache
+F:\Download\CursoApp-main\CursoApp.Infra.Data\obj\Debug\net8.0\CursoApp.Infra.Data.AssemblyInfo.cs
+F:\Download\CursoApp-main\CursoApp.Infra.Data\obj\Debug\net8.0\CursoApp.Infra.Data.csproj.CoreCompileInputs.cache
+F:\Download\CursoApp-main\CursoApp.Infra.Data\obj\Debug\net8.0\CursoApp.FFE84D43.Up2Date
+F:\Download\CursoApp-main\CursoApp.Infra.Data\obj\Debug\net8.0\CursoApp.Infra.Data.dll
+F:\Download\CursoApp-main\CursoApp.Infra.Data\obj\Debug\net8.0\refint\CursoApp.Infra.Data.dll
+F:\Download\CursoApp-main\CursoApp.Infra.Data\obj\Debug\net8.0\CursoApp.Infra.Data.pdb
+F:\Download\CursoApp-main\CursoApp.Infra.Data\obj\Debug\net8.0\CursoApp.Infra.Data.genruntimeconfig.cache
+F:\Download\CursoApp-main\CursoApp.Infra.Data\obj\Debug\net8.0\ref\CursoApp.Infra.Data.dll

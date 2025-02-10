@@ -1,0 +1,25 @@
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp.Domain\bin\Debug\net8.0\CursoApp.Domain.deps.json
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp.Domain\bin\Debug\net8.0\CursoApp.Domain.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp.Domain\bin\Debug\net8.0\CursoApp.Domain.pdb
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp.Domain\obj\Debug\net8.0\CursoApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp.Domain\obj\Debug\net8.0\CursoApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp.Domain\obj\Debug\net8.0\CursoApp.Domain.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp.Domain\obj\Debug\net8.0\CursoApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp.Domain\obj\Debug\net8.0\CursoApp.Domain.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp.Domain\obj\Debug\net8.0\refint\CursoApp.Domain.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp.Domain\obj\Debug\net8.0\CursoApp.Domain.pdb
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp.Domain\obj\Debug\net8.0\ref\CursoApp.Domain.dll
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp.Domain\obj\Debug\net8.0\CursoApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\EXERCICIOS CSHARP\API - DESAFIO TÉCNICO\CursoApp.API\CursoApp.Domain\obj\Debug\net8.0\CursoApp.Domain.sourcelink.json
+F:\Download\CursoApp-main\CursoApp.Domain\bin\Debug\net8.0\CursoApp.Domain.deps.json
+F:\Download\CursoApp-main\CursoApp.Domain\bin\Debug\net8.0\CursoApp.Domain.dll
+F:\Download\CursoApp-main\CursoApp.Domain\bin\Debug\net8.0\CursoApp.Domain.pdb
+F:\Download\CursoApp-main\CursoApp.Domain\obj\Debug\net8.0\CursoApp.Domain.csproj.AssemblyReference.cache
+F:\Download\CursoApp-main\CursoApp.Domain\obj\Debug\net8.0\CursoApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Download\CursoApp-main\CursoApp.Domain\obj\Debug\net8.0\CursoApp.Domain.AssemblyInfoInputs.cache
+F:\Download\CursoApp-main\CursoApp.Domain\obj\Debug\net8.0\CursoApp.Domain.AssemblyInfo.cs
+F:\Download\CursoApp-main\CursoApp.Domain\obj\Debug\net8.0\CursoApp.Domain.csproj.CoreCompileInputs.cache
+F:\Download\CursoApp-main\CursoApp.Domain\obj\Debug\net8.0\CursoApp.Domain.dll
+F:\Download\CursoApp-main\CursoApp.Domain\obj\Debug\net8.0\refint\CursoApp.Domain.dll
+F:\Download\CursoApp-main\CursoApp.Domain\obj\Debug\net8.0\CursoApp.Domain.pdb
+F:\Download\CursoApp-main\CursoApp.Domain\obj\Debug\net8.0\ref\CursoApp.Domain.dll
